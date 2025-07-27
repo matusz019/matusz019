@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Matty</h1>
-<h3 align="center">CS Grad | Backend Developer (in progress) | App Builder | Tech Explorer</h3>
+<h3 align="center">CS Grad | Full-Stack Developer (in progress) | App Builder | Tech Explorer</h3>
 
 ---
 
 I'm a **Computer Science graduate** with a passion for turning ideas into real, working software. Whether it's helping students manage money with an Android app or building a tool to keep fans up-to-date with game days — I'm always building.
 
-Currently diving deep into **backend development**, exploring **React** on the frontend, and aiming to create tools that are both **useful and cleanly designed**.
+Currently diving deep into **full-stack development** — strengthening my backend skills, learning **React** on the frontend, and aiming to create tools that are both **useful and cleanly designed**.
 
 ---
 
@@ -13,9 +13,10 @@ Currently diving deep into **backend development**, exploring **React** on the f
 
 - **Languages:** Kotlin, Java, C#, JavaScript, Python  
 - **Mobile:** Jetpack Compose, Android XML  
+- **Frontend:** React (learning), HTML, CSS  
 - **Backend:** Firebase, .NET 6.0, Node.js (learning)  
 - **Databases:** Room, SQLite, PostgreSQL  
-- **Tools:** Git & GitHub, Visual Studio, Android Studio, VS Code  
+- **Tools:** Git & GitHub, Android Studio, VS Code  
 
 ---
 
@@ -51,8 +52,8 @@ Currently working on a full-stack web version using React and Node.js!
 
 ### 📫 Let's Connect!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📧 Email: [matusz019@gmail.com](mailto:matusz019@gmail.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/mateusz-chetkowski) 
 - 🌐 [Portfolio](https://your-portfolio-link.com) *(coming soon?)*
 
 ---
