@@ -1,29 +1,68 @@
-<h1 align="center">Hi there 👋, I'm Matty</h1>
-<h3 align="center">A Computer Science graduate building tools that help people</h3>
+<h1 align="center">Hey there 👋, I'm Matty</h1>
+<h3 align="center">CS Grad | Backend Developer (in progress) | App Builder | Tech Explorer</h3>
 
 ---
 
-🌱 I’m a recent **Computer Science graduate** passionate about building real-world software, especially tools that solve practical problems. I enjoy working on **full-stack projects**, with a growing focus on **backend development**, **APIs**, and **React** on the frontend.
+I'm a **Computer Science graduate** with a passion for turning ideas into real, working software. Whether it's helping students manage money with an Android app or building a tool to keep fans up-to-date with game days — I'm always building.
 
-💼 I'm currently applying for backend roles while building open-source apps like **MoneyGlitch** and **Game Day Tracker**.
+Currently diving deep into **backend development**, exploring **React** on the frontend, and aiming to create tools that are both **useful and cleanly designed**.
+
+---
+
+### 🛠️ Tech I Work With
+
+- **Languages:** Kotlin, Java, C#, JavaScript, Python  
+- **Mobile:** Jetpack Compose, Android XML  
+- **Backend:** Firebase, .NET 6.0, Node.js (learning)  
+- **Databases:** Room, SQLite, PostgreSQL  
+- **Tools:** Git & GitHub, Visual Studio, Android Studio, VS Code  
 
 ---
 
 ### 🚀 Projects I'm Proud Of
 
-- 💸 [**MoneyGlitch**](https://github.com/matusz019/Money-Glitch)  
-  A budgeting app for university students using **Kotlin**, **Jetpack Compose**, **Firebase Auth**, and **Room**.
+💸 [**MoneyGlitch**](https://github.com/matusz019/Money-Glitch)  
+A smart budgeting app for students. Built with Kotlin, Jetpack Compose, Firebase Auth, and Room.  
+It’s my dissertation project — and I actually use it myself. 😄  
 
-- 📅 [**Game Day Tracker**](https://github.com/matusz019/GameDayTracker)  
-  A match day tracker with **Google Calendar integration**, built with **Kotlin** and designed to keep sports fans in sync with fixtures.
+📅 [**Game Day Tracker**](https://github.com/matusz019/GameDayTracker)  
+An Android app that syncs game schedules with your Google Calendar so you never miss a match.  
+Currently working on a full-stack web version using React and Node.js!
 
 ---
 
-### 🛠 Tech Stack
+### 📊 GitHub Stats
 
-```bash
-Languages:   Kotlin · Java · C# · Python · JavaScript
-Frontend:    Jetpack Compose · XML · React (learning)
-Backend:     Firebase · .NET · Node.js (learning)
-Databases:   Room · SQLite · PostgreSQL
-Tools:       Git · GitHub · Android Studio · VS Code · Visual Studio
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matusz019&show_icons=true&theme=radical" alt="Matty's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusz019&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- React and TailwindCSS  
+- Building REST APIs  
+- How to turn coffee into code ☕  
+
+---
+
+### 📫 Let's Connect!
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🌐 [Portfolio](https://your-portfolio-link.com) *(coming soon?)*
+
+---
+
+### ✨ Fun Facts
+
+- I’m a night owl developer 🦉 — most of my code is born after midnight.
+- My apps are usually built for a real-world purpose (and often for friends who say, *“Hey, can you make an app for that?”*).
+- One of my favourite things is refactoring code that looks like it’s been through a blender.
+
+---
+
+Thanks for stopping by! Give a ⭐ to anything you like!
