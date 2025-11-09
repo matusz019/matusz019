@@ -1,22 +1,21 @@
-<h1 align="center">Hey there 👋, I'm Matty</h1>
+<h1 align="center">Hey there, I'm Matty</h1>
 <h3 align="center">CS Grad | Full-Stack Developer (in progress) | App Builder | Tech Explorer</h3>
 
 ---
 
-I'm a **Computer Science graduate** with a passion for turning ideas into real, working software. Whether it's helping students manage money with an Android app or building a tool to keep fans up-to-date with game days — I'm always building.
+I'm a Computer Science graduate with a passion for turning ideas into real, working software.
 
-Currently diving deep into **full-stack development** — strengthening my backend skills, learning **React** on the frontend, and aiming to create tools that are both **useful and cleanly designed**.
+Currently diving deep into full-stack development — strengthening my backend skills, learning React on the frontend, and aiming to create tools that are both useful and cleanly designed.
 
 ---
 
 ### 🛠️ Tech I Work With
 
-- **Languages:** Kotlin, Java, C#, JavaScript, Python  
-- **Mobile:** Jetpack Compose, Android XML  
+- **Languages:** Kotlin, Java, C#, JavaScript, Python    
 - **Frontend:** React (learning), HTML, CSS  
 - **Backend:** Firebase, .NET 6.0, Node.js (learning)  
 - **Databases:** Room, SQLite, PostgreSQL  
-- **Tools:** Git & GitHub, Android Studio, VS Code  
+- **Tools:** Git & GitHub 
 
 ---
 
@@ -44,25 +43,16 @@ Currently working on a full-stack web version using React and Node.js!
 
 ### 🌱 Currently Learning
 
-- React and TailwindCSS  
-- Building REST APIs  
-- How to turn coffee into code ☕  
+- React and TailwindCSS   
+- How to turn coffee into code 
+- How to self-host
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 - 📧 Email: [matusz019@gmail.com](mailto:matusz019@gmail.com)  
 - 💼 [LinkedIn](www.linkedin.com/in/mateusz-chetkowski) 
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(coming soon?)*
-
----
-
-### ✨ Fun Facts
-
-- I’m a night owl developer 🦉 — most of my code is born after midnight.
-- My apps are usually built for a real-world purpose (and often for friends who say, *“Hey, can you make an app for that?”*).
-- One of my favourite things is refactoring code that looks like it’s been through a blender.
 
 ---
 
